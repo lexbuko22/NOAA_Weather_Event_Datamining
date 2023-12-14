@@ -21,3 +21,13 @@ No, there is not a siginicant corellation between the damage cost of severe weat
 - Have severe weather events increased over time?
 
 No, the regression analysis shows a the frequency of each event type as well as the total count of all events has no siginifcant correlation over time.
+
+Application of this knowledge:
+
+Answering these questions will allow for a better understanding of the risk of severe weather events and allow for better prediction of the outcomes of severe weather events. Armed with this information, future weather events, even if more severe, can cause less damage to people and property, potentially saving lives and preventing huge expenditures.
+The questions surrounding the occurrence of events over time will give insight into possible other causation factors as well as other interesting questions to be explored. Most notably if severe weather events are increasing over time, does global warming and climate change play a role in the occurrence and severity of these events.
+
+
+Link to the video demonstration:
+
+Link to your final project paper:
