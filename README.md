@@ -33,3 +33,5 @@ Link to the video demonstration:
 https://youtu.be/aDE-jFfTERE
 
 Link to your final project paper:
+
+https://github.com/Data-Mining-Project-F23/Storm-Event-Data/blob/main/02_Analyzing%20of%20NOAA%20Storm%20Damage%20Data_Part4.pdf
